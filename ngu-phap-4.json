@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-아요/-어요",
+  "loai": "동사/형용사 + -아요/-어요",
+  "ynghia": "Dùng để kết thúc câu trong tình huống thân mật, nâng cao người nghe, có thể dùng cho giải thích, câu hỏi, mệnh lệnh, yêu cầu.",
+  "vidu": [
+    {"cau": "칼로 씨는 자요.", "nghia": "Karlo đang ngủ."},
+    {"cau": "프엉 씨는 일해요.", "nghia": "Phương đang làm việc."},
+    {"cau": "유수프 씨는 공부해요.", "nghia": "Yusuf đang học."}
+  ],
+  "luat": "Nguyên âm ㅏ, ㅗ → -아요 (자다 → 자요). Nguyên âm ㅓ, ㅜ, ㅣ… → -어요 (쉬다 → 쉬어요). Động từ kết thúc bằng -하다 → -해요 (공부하다 → 공부해요)."
+},
+{
+  "nguphap": "을/를",
+  "loai": "명사 + 을/를",
+  "ynghia": "Kết hợp với danh từ để chỉ đối tượng (tân ngữ) của câu. Đối với danh từ + -하다, có thể dùng dạng 동작 명사 + 을/를 하다 mà không thay đổi nghĩa.",
+  "vidu": [
+    {"cau": "운동을 해요.", "nghia": "Tôi tập thể dục."},
+    {"cau": "전화를 해요.", "nghia": "Tôi gọi điện thoại."},
+    {"cau": "왕민 씨는 밥을 먹어요.", "nghia": "Vương Minh ăn cơm."},
+    {"cau": "자야 씨는 지금 책을 읽어요.", "nghia": "Jaya đang đọc sách."},
+    {"cau": "민민아웅 씨는 오늘 영화를 봐요.", "nghia": "Minmin Aung hôm nay xem phim."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 을, không có 받침 thì dùng 를. Dùng sau danh từ làm tân ngữ của câu."
+}]
