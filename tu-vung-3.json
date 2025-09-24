@@ -1,0 +1,200 @@
+[
+    {
+        "korean": "에어컨",
+        "english": "air conditioner",
+        "vietnamese": "máy điều hòa",
+        "audio": "tv-eps-b3-2025-1.mp3"
+    },
+    {
+        "korean": "침대",
+        "english": "bed",
+        "vietnamese": "giường",
+        "audio": "tv-eps-b3-2025-2.mp3"
+    },
+    {
+        "korean": "의자",
+        "english": "chair",
+        "vietnamese": "ghế",
+        "audio": "tv-eps-b3-2025-3.mp3"
+    },
+    {
+        "korean": "책상",
+        "english": "desk",
+        "vietnamese": "bàn học\/bàn làm việc",
+        "audio": "tv-eps-b3-2025-4.mp3"
+    },
+    {
+        "korean": "옷장",
+        "english": "closet",
+        "vietnamese": "tủ quần áo",
+        "audio": "tv-eps-b3-2025-5.mp3"
+    },
+    {
+        "korean": "소파",
+        "english": "sofa",
+        "vietnamese": "sofa\/ghế sô-pha",
+        "audio": "tv-eps-b3-2025-6.mp3"
+    },
+    {
+        "korean": "텔레비전",
+        "english": "television",
+        "vietnamese": "tivi",
+        "audio": "tv-eps-b3-2025-7.mp3"
+    },
+    {
+        "korean": "전자레인지",
+        "english": "microwave",
+        "vietnamese": "lò vi sóng",
+        "audio": "tv-eps-b3-2025-8.mp3"
+    },
+    {
+        "korean": "세탁기",
+        "english": "washer",
+        "vietnamese": "máy giặt",
+        "audio": "tv-eps-b3-2025-9.mp3"
+    },
+    {
+        "korean": "냉장고",
+        "english": "refrigerator",
+        "vietnamese": "tủ lạnh",
+        "audio": "tv-eps-b3-2025-10.mp3"
+    },
+    {
+        "korean": "청소기",
+        "english": "vacuum cleaner",
+        "vietnamese": "máy hút bụi",
+        "audio": "tv-eps-b3-2025-11.mp3"
+    },
+    {
+        "korean": "식탁",
+        "english": "table (dining)",
+        "vietnamese": "bàn ăn",
+        "audio": "tv-eps-b3-2025-12.mp3"
+    },
+    {
+        "korean": "회사",
+        "english": "workplace\/company",
+        "vietnamese": "công ty\/nơi làm việc",
+        "audio": "tv-eps-b3-2025-13.mp3"
+    },
+    {
+        "korean": "식당",
+        "english": "restaurant",
+        "vietnamese": "nhà hàng\/quán ăn",
+        "audio": "tv-eps-b3-2025-14.mp3"
+    },
+    {
+        "korean": "은행",
+        "english": "bank",
+        "vietnamese": "ngân hàng",
+        "audio": "tv-eps-b3-2025-15.mp3"
+    },
+    {
+        "korean": "커피숍",
+        "english": "coffee shop",
+        "vietnamese": "quán cà phê",
+        "audio": "tv-eps-b3-2025-16.mp3"
+    },
+    {
+        "korean": "편의점",
+        "english": "convenience store",
+        "vietnamese": "cửa hàng tiện lợi",
+        "audio": "tv-eps-b3-2025-17.mp3"
+    },
+    {
+        "korean": "시장",
+        "english": "market",
+        "vietnamese": "chợ",
+        "audio": "tv-eps-b3-2025-18.mp3"
+    },
+    {
+        "korean": "미용실",
+        "english": "hair salon",
+        "vietnamese": "tiệm cắt tóc\/thẩm mỹ viện",
+        "audio": "tv-eps-b3-2025-19.mp3"
+    },
+    {
+        "korean": "슈퍼마켓",
+        "english": "supermarket",
+        "vietnamese": "siêu thị",
+        "audio": "tv-eps-b3-2025-20.mp3"
+    },
+    {
+        "korean": "약국",
+        "english": "pharmacy",
+        "vietnamese": "nhà thuốc",
+        "audio": "tv-eps-b3-2025-21.mp3"
+    },
+    {
+        "korean": "병원",
+        "english": "hospital",
+        "vietnamese": "bệnh viện",
+        "audio": "tv-eps-b3-2025-22.mp3"
+    },
+    {
+        "korean": "우체국",
+        "english": "post office",
+        "vietnamese": "bưu điện",
+        "audio": "tv-eps-b3-2025-23.mp3"
+    },
+    {
+        "korean": "집",
+        "english": "house",
+        "vietnamese": "nhà",
+        "audio": "tv-eps-b3-2025-24.mp3"
+    },
+    {
+        "korean": "방",
+        "english": "room",
+        "vietnamese": "phòng",
+        "audio": "tv-eps-b3-2025-25.mp3"
+    },
+    {
+        "korean": "화장실",
+        "english": "restroom",
+        "vietnamese": "nhà vệ sinh",
+        "audio": "tv-eps-b3-2025-26.mp3"
+    },
+    {
+        "korean": "거실",
+        "english": "living room",
+        "vietnamese": "phòng khách",
+        "audio": "tv-eps-b3-2025-27.mp3"
+    },
+    {
+        "korean": "부엌",
+        "english": "kitchen",
+        "vietnamese": "nhà bếp",
+        "audio": "tv-eps-b3-2025-28.mp3"
+    },
+    {
+        "korean": "여기",
+        "english": "here",
+        "vietnamese": "ở đây",
+        "audio": "tv-eps-b3-2025-29.mp3"
+    },
+    {
+        "korean": "거기",
+        "english": "there",
+        "vietnamese": "ở đó",
+        "audio": "tv-eps-b3-2025-30.mp3"
+    },
+    {
+        "korean": "저기",
+        "english": "over there",
+        "vietnamese": "ở kia",
+        "audio": "tv-eps-b3-2025-31.mp3"
+    },
+    {
+        "korean": "어디",
+        "english": "where",
+        "vietnamese": "ở đâu",
+        "audio": "tv-eps-b3-2025-32.mp3"
+    },
+    {
+        "korean": "기숙사",
+        "english": "dorm\/dormitory",
+        "vietnamese": "ký túc xá",
+        "audio": "tv-eps-b3-2025-33.mp3"
+    }
+]
