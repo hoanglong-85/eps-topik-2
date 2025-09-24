@@ -1,0 +1,79 @@
+
+[
+{
+  "audio": "hoi-thoai-4-1.mp3",
+  "hinhanh": "hoi-thoai-4-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "진수",
+      "korean": " 다라 씨는 뭐 해요?",
+      "vietnamese": "Dara đang làm gì?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "다라 씨는 요리해요.",
+      "vietnamese": "Dara đang nấu ăn."
+    },
+    {
+      "speaker": "진수",
+      "korean": "닛차난 씨도 요리해요?",
+      "vietnamese": "Nitchanan cũng đang nấu ăn à?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "아니요, 닛차난 씨는 운동해요.",
+      "vietnamese": "Không, Nitchanan đang tập thể dục."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "다라 씨는 뭐 해요?",
+      "vietnamese_question": "Dara đang làm gì?",
+      "korean_answer": "다라 씨는 요리해요.",
+      "vietnamese_answer": "Dara đang nấu ăn."
+    },
+    {
+      "korean_question": "닛차난 씨는 운동해요?",
+      "vietnamese_question": "Nitchanan đang tập thể dục phải không?",
+      "korean_answer": "네, 닛차난 씨는 운동해요.",
+      "vietnamese_answer": "Vâng, Nitchanan đang tập thể dục."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-4-2.mp3",
+  "hinhanh": "hoi-thoai-4-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "프엉",
+      "korean": " 왕민 씨, 지금 뭐 해요?",
+      "vietnamese": "Wangmin, bây giờ bạn đang làm gì?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "저는 텔레비전을 봐요.프엉 씨도 지금 텔레비전을 봐요?",
+      "vietnamese": "Tôi đang xem tivi.Bạn cũng đang xem tivi à, Phuong?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "아니요. 저는 밥을 먹어요.",
+      "vietnamese": "Không, tôi đang ăn cơm."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 지금 뭐 해요?",
+      "vietnamese_question": "Wangmin bây giờ đang làm gì?",
+      "korean_answer": "왕민 씨는 지금 텔레비전을 봐요.",
+      "vietnamese_answer": "Wangmin đang xem tivi."
+    },
+    {
+      "korean_question": "프엉 씨는 지금 텔레비전을 봐요?",
+      "vietnamese_question": "Phuong bây giờ có đang xem tivi không?",
+      "korean_answer": "아니요, 프엉 씨는 밥을 먹어요.",
+      "vietnamese_answer": "Không, Phuong đang ăn cơm."
+    }
+  ]
+ }
+ ]
+
