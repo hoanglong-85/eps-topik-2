@@ -1,0 +1,25 @@
+[{
+  "nguphap": "이/가 있어요, 없어요",
+  "loai": "명사 + 이/가 있어요/없어요",
+  "ynghia": "이/가 있어요 biểu thị sự tồn tại hoặc sở hữu của người hoặc vật. 이/가 없어요 dùng khi vật hoặc người không tồn tại hoặc không sở hữu.",
+  "vidu": [
+    {"cau": "책상이 있어요.", "nghia": "Có bàn học."},
+    {"cau": "텔레비전이 없어요.", "nghia": "Không có tivi."},
+    {"cau": "소파가 있어요.", "nghia": "Có ghế sofa."},
+    {"cau": "냉장고가 없어요.", "nghia": "Không có tủ lạnh."},
+    {"cau": "옷장이 있어요.", "nghia": "Có tủ quần áo."},
+    {"cau": "의자가 있어요.", "nghia": "Có ghế."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 이 있어요/없어요, không có 받침 thì dùng 가 있어요/없어요. Khi hỏi về sự tồn tại hoặc sở hữu, dùng 이/가 있어요? hoặc 없어요? mà không thay đổi hình thức."
+},
+{
+  "nguphap": "에 (장소)",
+  "loai": "명사 + 에",
+  "ynghia": "Kết hợp với danh từ chỉ địa điểm để chỉ nơi tồn tại của người hoặc vật.",
+  "vidu": [
+    {"cau": "왕민은 사무실에 있어요.", "nghia": "Vương Minh ở văn phòng."},
+    {"cau": "침대는 방에 있어요.", "nghia": "Giường ở trong phòng."},
+    {"cau": "거실에 소파가 있어요.", "nghia": "Có ghế sofa ở phòng khách."}
+  ],
+  "luat": "Dùng 에 sau danh từ chỉ địa điểm để chỉ nơi tồn tại của người hoặc vật."
+}]

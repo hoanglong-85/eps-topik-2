@@ -1,84 +1,46 @@
-
-[
-{
-  "audio": "hoi-thoai-3-1.mp3",
-  "hinhanh": "hoi-thoai-3-1.jpg",
-  "hoithoai": [
+[ {
+  "title": {
+    "korean": "한국의 도시",
+    "vietnamese": "Thành phố của Hàn Quốc"
+  },
+  "data": [
     {
-      "speaker": "다라",
-      "korean": " 침대가 있어요?",
-      "vietnamese": "Có giường không?"
+      "korean": "한국에는 한 개의 특별시(서울)와 한 개의 특별자치시(세종), 여섯 개의 광역시(인천, 대전, 부산, 울산, 대구, 광주)가 있습니다. 서울은 한국에서 가장 큰 도시로, 정치, 경제, 문화의 중심지입니다. 주변의 인천, 경기도와 함께 수도권을 이루며, 이 지역에는 50%가 넘는 한국 사람들이 거주합니다. 인천은 대한민국의 관문으로서, 인천국제공항과 인천항이 위치해 있습니다.",
+      "vietnamese": "Ở Hàn Quốc có một thành phố đặc biệt (Seoul), một thành phố tự trị đặc biệt (Sejong), và sáu thành phố trực thuộc trung ương (Incheon, Daejeon, Busan, Ulsan, Daegu, Gwangju). Seoul là thành phố lớn nhất ở Hàn Quốc, là trung tâm chính trị, kinh tế và văn hóa. Cùng với Incheon và tỉnh Gyeonggi, khu vực này có hơn 50% người Hàn Quốc sinh sống. Incheon là cửa ngõ của Hàn Quốc, nằm ở vị trí sân bay quốc tế Incheon và cảng Incheon."
     },
     {
-      "speaker": "프엉",
-      "korean": "네, 침대가 있어요.",
-      "vietnamese": "Có, có giường."
+      "korean": "한편, 세종특별자치시는 2012년에 행정 업무를 효율적으로 수행하기 위해 만들어진 행정중심복합도시로, 교육부, 고용노동부 등 대부분의 정부 부처가 위치해 있습니다. 인근에는 경부선과 호남선이 지나가는 교통과 과학의 중심지인 대전이 있습니다.",
+      "vietnamese": "Mặt khác, thành phố tự trị đặc biệt Sejong là thành phố phức hợp trung tâm hành chính được tạo ra để thực hiện công việc hành chính một cách hiệu quả từ năm 2012, đại đa số các bộ của chính phủ như bộ giáo dục, bộ lao động đều nằm ở vị trí này. Gần đó có Daejeon là trung tâm giao thông và khoa học đi qua tuyến Gyeongbu và tuyến Honam."
     },
     {
-      "speaker": "다라",
-      "korean": "옷장도 있어요?",
-      "vietnamese": "Có cả tủ quần áo không?"
+      "korean": "부산은 한국에서 두 번째로 큰 도시로, 세계적인 규모의 부산항이 있으며, 아름다운 해변이 있어 많은 관광객들이 방문합니다. 인근에는 자동차, 조선, 중화학 산업이 발달한 공업 도시 울산이 있습니다.",
+      "vietnamese": "Busan là thành phố lớn thứ hai ở Hàn Quốc, có cảng Busan quy mô toàn cầu và có bãi biển đẹp nên nhiều khách du lịch đến thăm. Gần đó là thành phố công nghiệp Ulsan, nơi ngành công nghiệp ô tô, đóng tàu và hóa chất nặng phát triển."
     },
     {
-      "speaker": "프엉",
-      "korean": "아니요, 옷장은 없어요. 소파가 있어요.",
-      "vietnamese": "Không, không có tủ quần áo. Có một chiếc ghế sofa."
+      "korean": "이 외에도 한국의 남동쪽인 경상도 지방에는 섬유 산업의 도시인 대구가 있고, 남서쪽의 전라도 지방에는 문화와 예술의 도시인 광주가 있습니다.",
+      "vietnamese": "Ngoài ra, ở khu vực tỉnh Gyeongsang phía đông nam Hàn Quốc có Daegu là thành phố của ngành dệt may, và ở khu vực tỉnh Jeolla phía tây nam có Gwangju là thành phố văn hóa và nghệ thuật."
     }
   ],
-  "questions": [
-    {
-      "korean_question": "옷장이 있어요?",
-      "vietnamese_question": "Có tủ quần áo không?",
-      "korean_answer": "아니요, 옷장은 없어요.",
-      "vietnamese_answer": "Không, không có tủ quần áo."
-    },
-    {
-      "korean_question": "소파가 있어요?",
-      "vietnamese_question": "Có ghế sofa không?",
-      "korean_answer": "네, 소파가 있어요.",
-      "vietnamese_answer": "Có, có ghế sofa."
-    }
-  ]
- },
- {
-  "audio": "hoi-thoai-3-2.mp3",
-  "hinhanh": "hoi-thoai-3-2.jpg",
-  "hoithoai":[
-    {
-      "speaker": "마두",
-      "korean": "닛차난 씨는 어디에 있어요?",
-      "vietnamese": "Nitchanan đang ở đâu?"
-    },
-    {
-      "speaker": "자하라",
-      "korean": "식당에 있어요.",
-      "vietnamese": "Cô ấy đang ở nhà hàng."
-    },
-    {
-      "speaker": "마두",
-      "korean": "아지자 씨도 식당에 있어요?",
-      "vietnamese": "Aziza cũng ở nhà hàng à?"
-    },
-    {
-      "speaker": "자하라",
-      "korean": "아니요, 아지자 씨는 미용실에 있어요.",
-      "vietnamese": "Không, Aziza đang ở tiệm tóc."
-    }
-  ],
-  "questions": [
-    {
-      "korean_question": "닛차난 씨는 식당에 있어요?",
-      "vietnamese_question": "Nitchanan có ở nhà hàng không?",
-      "korean_answer": "네, 닛차난 씨는 식당에 있어요.",
-      "vietnamese_answer": "Vâng, Nitchanan đang ở nhà hàng."
-    },
-    {
-      "korean_question": "아지자 씨는 어디에 있어요?",
-      "vietnamese_question": "Aziza đang ở đâu?",
-      "korean_answer": "아지자 씨는 미용실에 있어요.",
-      "vietnamese_answer": "Aziza đang ở tiệm tóc."
-    }
-  ]
- }
- ]
-
+  "voca": {
+    "도시": "Đô thị, thành phố",
+    "세계적": "Mang tính thế giới",
+    "광역시": "Thành phố trực thuộc trung ương",
+    "규모": "Quy mô",
+    "정치": "Chính trị",
+    "해변": "Bờ biển",
+    "경제": "Kinh tế",
+    "관광객": "Khách tham quan",
+    "중심지": "Khu vực trung tâm",
+    "인근": "Lân cận",
+    "주변": "Xung quanh",
+    "중화학 산업": "Ngành hóa chất công nghiệp nặng",
+    "거주하다": "Cư trú",
+    "행정 업무": "Công tác hành chính",
+    "대한민국": "Đại Hàn dân quốc",
+    "효율적": "Tính hiệu suất",
+    "관문": "Cổng vào",
+    "수행하다": "Tiến hành",
+    "위치하다": "Tọa lạc, nằm ở vị trí",
+    "정부 부처": "Cơ quan chính phủ, bộ ngành chính phủ"
+  }
+}]
