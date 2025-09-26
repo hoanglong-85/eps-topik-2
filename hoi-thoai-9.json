@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-9-1.mp3",
+  "hinhanh": "hoi-thoai-9-1.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "점원",
+      "korean": "어서 오세요. 뭐 드시겠어요?",
+      "vietnamese": "Chào mừng quý khách. Quý khách muốn ăn gì?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "저는 비빔밥 주세요.",
+      "vietnamese": "Cho tôi bibimbap (cơm trộn), xin vui lòng."
+    },
+    {
+      "speaker": "아미나",
+      "korean": "저는 김치찌개 주세요.",
+      "vietnamese": "Cho tôi kimchi jjigae (canh kimchi), xin vui lòng."
+    },
+    {
+      "speaker": "점원",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "물도 좀 주세요.",
+      "vietnamese": "Cho chúng tôi ít nước nữa, xin vui lòng."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "두 사람은 어디에 있어요?",
+      "vietnamese_question": "Hai người đang ở đâu?",
+      "korean_answer": "식당에 있어요.",
+      "vietnamese_answer": "Ở nhà hàng."
+    },
+    {
+      "korean_question": "아미나 씨는 무엇을 먹어요?",
+      "vietnamese_question": "Amina ăn món gì?",
+      "korean_answer": "김치찌개를 먹어요.",
+      "vietnamese_answer": "Ăn canh kimchi."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-9-2.mp3",
+  "hinhanh": "hoi-thoai-9-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "점원",
+      "korean": "어서 오세요. 뭐 드시겠어요?",
+      "vietnamese": "Chào mừng quý khách. Bạn muốn dùng gì?"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "커피 두 잔 주세요. 빵 있어요?",
+      "vietnamese": "Cho tôi hai ly cà phê. Có bánh mì không?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "아니요, 없어요. 케이크는 있어요.",
+      "vietnamese": "Không, không có. Có bánh kem."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "그럼 커피 두 잔하고 케이크 주세요.",
+      "vietnamese": "Vậy cho tôi hai ly cà phê và bánh kem."
+    },
+    {
+      "speaker": "점원",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "민민아웅 씨는 어디에 갔어요?",
+      "vietnamese_question": "Min Min Aung đã đi đâu?",
+      "korean_answer": "카페에 갔어요.",
+      "vietnamese_answer": "Đã đi quán cà phê."
+    },
+    {
+      "korean_question": "민민아웅 씨는 무엇을 주문했어요?",
+      "vietnamese_question": "Min Min Aung đã gọi món gì?",
+      "korean_answer": "커피 두 잔하고 케이크를 주문했어요.",
+      "vietnamese_answer": "Gọi hai ly cà phê và bánh kem."
+    }
+  ]
+ }
+ ]
+
