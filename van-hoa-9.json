@@ -1,0 +1,45 @@
+[{
+  "title": {
+    "korean": "한국인의 식사",
+    "vietnamese": "Bữa ăn của người Hàn Quốc"
+  },
+  "data": [
+    {
+      "korean": "한국 사람들은 주로 밥, 국, 반찬으로 구성된 식사를 합니다. 밥은 한국 사람들의 주식으로 쌀로 짓습니다. 국은 국물이 있는 음식으로, 된장국이나 미역국 등 다양한 종류가 있습니다. 반찬은 김치나 나물과 같이 밥에 곁들여 먹는 음식으로, 함께 식사하는 사람들 간에 나누어 먹는 것이 일반적입니다. 식당에서 식사할 때는 보통 반찬이 무료로 제공됩니다. 한국 사람들은 가족과 함께 식사하는 것을 중요하게 생각하며, 함께 음식을 나누는 것을 소중히 여깁니다.",
+      "vietnamese": "Người Hàn Quốc chủ yếu ăn cơm, canh và các món ăn kèm. Cơm được làm từ gạo là thức ăn chính của người Hàn Quốc. Canh là món ăn có nước dùng, có nhiều loại như canh tương đậu hay canh rong biển. Món ăn kèm là món ăn ăn kèm với cơm như kim chi và rau, thông thường việc chia sẻ giữa những người ăn cùng nhau là điều phổ biến. Khi dùng bữa ở nhà hàng thường được phục vụ miễn phí các món ăn phụ. Người Hàn Quốc coi trọng việc ăn uống cùng gia đình và trân trọng việc chia sẻ thức ăn cùng nhau."
+    },
+    {
+      "korean": "최근에는 외식이 증가하면서 다양한 음식을 제공하는 식당이 많아지고, 편의를 위해 키오스크를 사용하여 음식을 주문하는 가게가 늘어나고 있습니다.",
+      "vietnamese": "Trong những năm gần đây, ngày càng có nhiều nhà hàng phục vụ nhiều loại thực phẩm khác nhau khi việc ăn ngoài tăng lên, và ngày càng có nhiều cửa hàng sử dụng ki-ốt để khách đặt thức ăn một cách thuận tiện."
+    },
+    {
+      "korean": "키오스크를 이용하면 터치스크린을 통해 메뉴를 선택하고 결제까지 한 번에 할 수 있어 매우 편리합니다. 키오스크를 이용하는 방법은 간단합니다. 원하는 메뉴와 개수, 옵션을 선택한 후 결제 버튼을 누르고, 카드나 모바일 결제를 통해 결제하면 됩니다. 주문이 완료되면 영수증이 출력됩니다.",
+      "vietnamese": "Nếu sử dụng ki-ốt, bạn có thể chọn menu và thanh toán cùng một lúc thông qua màn hình cảm ứng nên rất tiện lợi. Cách sử dụng ki-ốt rất đơn giản. Sau khi chọn menu, số lượng và phương thức thanh toán, nhấn nút thanh toán và thanh toán bằng thẻ hoặc di động là được. Khi đặt hàng xong, hóa đơn sẽ được in ra."
+    },
+    {
+      "korean": "키오스크를 이용하면 메뉴를 자세히 볼 수 있고, 주문을 빠르게 할 수 있습니다. 키오스크 덕분에 사람들이 간편하게 음식을 주문할 수 있게 되었습니다.",
+      "vietnamese": "Sử dụng ki-ốt, bạn có thể xem thực đơn một cách chi tiết và nhanh chóng đặt hàng. Nhờ ki-ốt mà mọi người có thể gọi đồ ăn một cách dễ dàng."
+    }
+  ],
+  "voca": {
+    "곁들이다": "Bày biện, dọn kèm",
+    "일반적": "Mang tính thông thường, bình thường",
+    "소중히": "Một cách quý báu",
+    "외식": "Ăn ngoài",
+    "증가하다": "Gia tăng",
+    "편의": "Sự tiện lợi",
+    "키오스크": "Ki-ốt, quầy bán hàng tự động",
+    "늘어나다": "Tăng lên, nhiều lên",
+    "터치스크린": "Màn hình cảm ứng",
+    "선택하다": "Lựa chọn",
+    "원하다": "Mong muốn, hy vọng",
+    "개수": "Số lượng",
+    "옵션": "Chế độ ưu đãi",
+    "버튼을 누르다": "Nhấn nút",
+    "모바일 결제": "Thanh toán bằng thiết bị di động",
+    "완료되다": "Được hoàn tất, hoàn thành",
+    "출력되다": "Xuất dữ liệu, in ấn",
+    "자세히": "Một cách chi tiết, tỉ mỉ",
+    "간편하다": "Giản tiện"
+  }
+}]
