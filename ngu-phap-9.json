@@ -1,4 +1,4 @@
-{
+[{
   "nguphap": "주세요",
   "loai": "명사 + 주세요",
   "ynghia": "Đặt sau danh từ để thể hiện yêu cầu hoặc ra lệnh nhận đối tượng được chỉ định bởi danh từ đó.",
@@ -21,4 +21,4 @@
     {"cau": "토요일에 친구하고 축구했어요.", "nghia": "Chơi bóng với bạn vào thứ Bảy."}
   ],
   "luat": "하고 dùng trong hội thoại để nối danh từ hoặc chỉ sự cùng tham gia. 과/와 dùng trong văn viết hoặc trang trọng: 받침 có → 과, không có → 와."
-}
+}]
