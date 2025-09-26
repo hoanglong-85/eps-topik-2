@@ -1,0 +1,24 @@
+{
+  "nguphap": "주세요",
+  "loai": "명사 + 주세요",
+  "ynghia": "Đặt sau danh từ để thể hiện yêu cầu hoặc ra lệnh nhận đối tượng được chỉ định bởi danh từ đó.",
+  "vidu": [
+    {"cau": "물 주세요.", "nghia": "Cho tôi nước."},
+    {"cau": "비빔밥 주세요.", "nghia": "Cho tôi cơm trộn."},
+    {"cau": "김치찌개 주세요.", "nghia": "Cho tôi canh kim chi."}
+  ],
+  "luat": "주세요 luôn đứng sau danh từ và được dùng để yêu cầu nhận đối tượng hoặc thực hiện hành động liên quan đến danh từ đó."
+},
+{
+  "nguphap": "하고 / 과/와",
+  "loai": "명사 + 하고 / 과/와",
+  "ynghia": "하고 thường dùng trong hội thoại, nối hai danh từ hoặc chỉ sự cùng tham gia hành động. 과/와 dùng trong văn viết hoặc tình huống trang trọng; nếu danh từ trước có 받침 → 과, không có 받침 → 와.",
+  "vidu": [
+    {"cau": "빵과 우유", "nghia": "Bánh mì và sữa."},
+    {"cau": "날씨와 계절", "nghia": "Thời tiết và mùa."},
+    {"cau": "우유하고 빵을 사요.", "nghia": "Mua sữa và bánh mì."},
+    {"cau": "연필하고 지우개가 있어요.", "nghia": "Có bút chì và cục tẩy."},
+    {"cau": "토요일에 친구하고 축구했어요.", "nghia": "Chơi bóng với bạn vào thứ Bảy."}
+  ],
+  "luat": "하고 dùng trong hội thoại để nối danh từ hoặc chỉ sự cùng tham gia. 과/와 dùng trong văn viết hoặc trang trọng: 받침 có → 과, không có → 와."
+}
