@@ -1,0 +1,42 @@
+[ {
+  "title": {
+    "korean": "무인 판매점",
+    "vietnamese": "Cửa hàng không có người bán hàng"
+  },
+  "data": [
+    {
+      "korean": "무인 판매점은 사람이 직접 판매를 하지 않고, 자동화된 시스템을 통해 상품을 판매하는 가게입니다. 보통 고객이 원하는 상품을 선택한 후 카드나 스마트폰을 이용하여 직접 결제하는 방식으로 운영됩니다. 그러나 고급화된 센서, 카메라, RFID (Radio Frequency Identification) 기술 등을 활용한 매장에서는 고객이 모바일 앱으로 QR 코드를 스캔하여 사전 결제를 하면 상품이 나오는 방식으로 운영되기도 합니다.",
+      "vietnamese": "Cửa hàng không có người bán không phải là cửa hàng bán trực tiếp mà là cửa hàng bán hàng thông qua hệ thống tự động. Nó được vận hành bằng cách sử dụng thẻ hoặc điện thoại thông minh để thanh toán trực tiếp. Tuy nhiên, tại các cửa hàng này sử dụng cảm biến cao cấp, camera và công nghệ RFID (Radio Frequency Identification). Thông thường, sau khi khách hàng lựa chọn sản phẩm mong muốn, sử dụng ứng dụng di động để quét mã QR và thanh toán thì sản phẩm sẽ được đưa ra."
+    },
+    {
+      "korean": "무인 판매점은 무인 슈퍼, 무인 편의점처럼 음료수, 과자, 컵라면, 생필품 등 다양한 종류의 상품을 판매하는 곳도 있고, 무인 생수 판매점, 무인 계란 판매점, 무인 아이스크림 판매점, 무인 라면 판매점, 무인 과일 판매점, 무인 문구점과 같이 특정 상품만을 취급하는 곳도 있습니다. 이 외에도 무인 세탁소와 무인 카페, 무인 골프장 등 무인으로 서비스를 제공하는 곳도 있습니다.",
+      "vietnamese": "Các cửa hàng không người bán có thể bán nhiều loại hàng hóa như siêu thị không người bán, cửa hàng tiện lợi không người bán, đồ uống, bánh kẹo, mì ly, đồ dùng thiết yếu, v.v., và cũng có những cửa hàng chỉ chuyên một loại hàng như cửa hàng nước, cửa hàng trứng, cửa hàng kem, cửa hàng mì, cửa hàng trái cây, cửa hàng văn phòng phẩm không người bán. Ngoài ra còn có những nơi cung cấp dịch vụ không người bán như tiệm giặt ủi, quán cà phê, sân golf."
+    },
+    {
+      "korean": "이러한 무인 판매점은 24시간 운영되고 있어 언제든지 필요할 때에 이용할 수 있다는 장점이 있습니다. 또한 외국인처럼 언어 장벽이 있는 사람들도 자유롭고 간편하게 이용할 수 있습니다.",
+      "vietnamese": "Những cửa hàng bán hàng không người bán này hoạt động 24/24 và có ưu điểm là có thể sử dụng bất cứ khi nào cần thiết. Ngoài ra, những người có rào cản ngôn ngữ như người nước ngoài cũng có thể sử dụng một cách tự do và dễ dàng."
+    }
+  ],
+  "voca": {
+    "무인 판매점": "Cửa hàng không người bán",
+    "직접": "Trực tiếp",
+    "판매하다": "Bán hàng",
+    "자동화": "Tự động hóa",
+    "시스템": "Hệ thống",
+    "운영되다": "Được vận hành, được kinh doanh",
+    "고급화": "Cao cấp hóa",
+    "센서": "Thiết bị cảm biến",
+    "매장": "Cửa tiệm, cửa hàng",
+    "모바일 앱": "Ứng dụng di động",
+    "스캔하다": "Quét, scan",
+    "음료수": "Đồ uống, nước ngọt",
+    "컵라면": "Mì ly",
+    "생필품": "Đồ dùng sinh hoạt thiết yếu",
+    "문구점": "Cửa hàng văn phòng phẩm",
+    "특정": "Đặc trưng",
+    "최근하다": "Giao dịch, xử lý, cư xử",
+    "장점": "Ưu điểm, điểm mạnh",
+    "장벽": "Vách ngăn, rào cản",
+    "줄어들다": "Giảm đi"
+  }
+}]

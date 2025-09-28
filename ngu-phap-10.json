@@ -1,0 +1,22 @@
+[{
+  "nguphap": "-네요",
+  "loai": "동사/형용사 + -네요",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để bày tỏ sự ngạc nhiên hoặc cảm thán nhẹ về một sự việc vừa nhận biết, nhìn thấy hoặc cảm nhận được.",
+  "vidu": [
+    {"cau": "수박이 정말 크네요.", "nghia": "Dưa hấu to quá nhỉ."},
+    {"cau": "날씨가 정말 덥네요.", "nghia": "Thời tiết nóng quá nhỉ."},
+    {"cau": "닛차난 씨는 한국 음식을 잘 만드네요.", "nghia": "Nitchanan nấu món Hàn giỏi quá nhỉ."}
+  ],
+  "luat": "Dùng -네요 sau động từ hoặc tính từ để biểu thị sự ngạc nhiên, cảm thán nhẹ về điều mới nhận ra, thấy hoặc cảm nhận."
+},
+{
+  "nguphap": "-아/어 주세요",
+  "loai": "동사 + -아/어 주세요",
+  "ynghia": "Được thêm vào động từ để nhờ ai đó thực hiện hành động hoặc ra lệnh nhẹ nhàng.",
+  "vidu": [
+    {"cau": "우리 집에 와 주세요.", "nghia": "Hãy đến nhà tôi."},
+    {"cau": "딸기를 좀 씻어 주세요.", "nghia": "Hãy rửa giúp tôi một ít dâu tây."},
+    {"cau": "바지가 작아요. 교환해 주세요.", "nghia": "Quần nhỏ quá. Hãy đổi giúp tôi."}
+  ],
+  "luat": "Nguyên âm ㅏ, ㅗ → -아 주세요 (깎다 → 깎아 주세요), nguyên âm ㅓ, ㅜ, ㅣ… → -어 주세요 (읽다 → 읽어 주세요), động từ kết thúc bằng -하다 → -해 주세요 (요리하다 → 요리해 주세요)."
+}]
