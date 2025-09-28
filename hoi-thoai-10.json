@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-10-1.mp3",
+  "hinhanh": "hoi-thoai-10-1.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "주인",
+      "korean": "어서 오세요.",
+      "vietnamese": "Chào mừng quý khách."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "안녕하세요? 과일이 싱싱하네요. 뭐가 맛있어요?",
+      "vietnamese": "Xin chào. Trái cây trông tươi ngon quá! Loại nào ngon vậy?"
+    },
+    {
+      "speaker": "주인",
+      "korean": "딸기하고 오렌지가 맛있어요.",
+      "vietnamese": "Dâu tây và cam ngon lắm."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "그럼 딸기 한 상자하고 오렌지 다섯 개 주세요. 얼마예요?",
+      "vietnamese": "Vậy cho tôi một hộp dâu tây và năm quả cam. Bao nhiêu tiền vậy?"
+    },
+    {
+      "speaker": "주인",
+      "korean": "이만 원이에요.",
+      "vietnamese": "Là 20.000 won."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "과일이 어때요?",
+      "vietnamese_question": "Trái cây như thế nào?",
+      "korean_answer": "싱싱해요.",
+      "vietnamese_answer": "Tươi ngon."
+    },
+    {
+      "korean_question": "프엉은 무슨 과일을 샀어요?",
+      "vietnamese_question": "Phương đã mua những loại trái cây nào?",
+      "korean_answer": "딸기 한 상자하고 오렌지 다섯 개를 샀어요.",
+      "vietnamese_answer": "Mua một hộp dâu tây và năm quả cam."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-10-2.mp3",
+  "hinhanh": "hoi-thoai-10-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "칼로",
+      "korean": "사장님, 이 바지 얼마예요?",
+      "vietnamese": "Chủ tiệm ơi, cái quần này bao nhiêu tiền vậy?"
+    },
+    {
+      "speaker": "주인",
+      "korean": "사만 삼천 원이에요.",
+      "vietnamese": "Là 43.000 won."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "사만 삼천 원요? 비싸네요. 좀 깎아 주세요.",
+      "vietnamese": "43.000 won ạ? Mắc quá. Bớt cho tôi một chút đi."
+    },
+    {
+      "speaker": "주인",
+      "korean": "알았어요. 사만 원 주세요.",
+      "vietnamese": "Được rồi. Cho tôi 40.000 won nhé."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "감사합니다. 종이 가방에 넣어 주세요.",
+      "vietnamese": "Cảm ơn. Xin hãy cho vào túi giấy."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "칼로는 무엇을 샀어요?",
+      "vietnamese_question": "Carlo đã mua gì?",
+      "korean_answer": "바지를 샀어요.",
+      "vietnamese_answer": "Đã mua quần."
+    },
+    {
+      "korean_question": "바지를 얼마에 샀어요?",
+      "vietnamese_question": "Carlo đã mua quần với giá bao nhiêu?",
+      "korean_answer": "사만 원에 샀어요.",
+      "vietnamese_answer": "Đã mua với giá 40.000 won."
+    }
+  ]
+ }
+ ]
+
