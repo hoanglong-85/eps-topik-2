@@ -1,0 +1,84 @@
+
+[
+{
+  "audio": "hoi-thoai-3-1.mp3",
+  "hinhanh": "hoi-thoai-3-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "다라",
+      "korean": " 침대가 있어요?",
+      "vietnamese": "Có giường không?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "네, 침대가 있어요.",
+      "vietnamese": "Có, có giường."
+    },
+    {
+      "speaker": "다라",
+      "korean": "옷장도 있어요?",
+      "vietnamese": "Có cả tủ quần áo không?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "아니요, 옷장은 없어요. 소파가 있어요.",
+      "vietnamese": "Không, không có tủ quần áo. Có một chiếc ghế sofa."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "옷장이 있어요?",
+      "vietnamese_question": "Có tủ quần áo không?",
+      "korean_answer": "아니요, 옷장은 없어요.",
+      "vietnamese_answer": "Không, không có tủ quần áo."
+    },
+    {
+      "korean_question": "소파가 있어요?",
+      "vietnamese_question": "Có ghế sofa không?",
+      "korean_answer": "네, 소파가 있어요.",
+      "vietnamese_answer": "Có, có ghế sofa."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-3-2.mp3",
+  "hinhanh": "hoi-thoai-3-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "마두",
+      "korean": "닛차난 씨는 어디에 있어요?",
+      "vietnamese": "Nitchanan đang ở đâu?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "식당에 있어요.",
+      "vietnamese": "Cô ấy đang ở nhà hàng."
+    },
+    {
+      "speaker": "마두",
+      "korean": "아지자 씨도 식당에 있어요?",
+      "vietnamese": "Aziza cũng ở nhà hàng à?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "아니요, 아지자 씨는 미용실에 있어요.",
+      "vietnamese": "Không, Aziza đang ở tiệm tóc."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "닛차난 씨는 식당에 있어요?",
+      "vietnamese_question": "Nitchanan có ở nhà hàng không?",
+      "korean_answer": "네, 닛차난 씨는 식당에 있어요.",
+      "vietnamese_answer": "Vâng, Nitchanan đang ở nhà hàng."
+    },
+    {
+      "korean_question": "아지자 씨는 어디에 있어요?",
+      "vietnamese_question": "Aziza đang ở đâu?",
+      "korean_answer": "아지자 씨는 미용실에 있어요.",
+      "vietnamese_answer": "Aziza đang ở tiệm tóc."
+    }
+  ]
+ }
+ ]
+
